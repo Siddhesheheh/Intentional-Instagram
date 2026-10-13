@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Mobile",
+  "description": "An Instagram mobile web application featuring Home feed, Reels, Explore, Direct Messages with single-reel viewer, Profile management, and screen time usage limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
